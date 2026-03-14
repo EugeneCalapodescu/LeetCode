@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="tools.h" />
+    <ClInclude Include="main.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="tools.cpp" />
+    <ClCompile Include="src\0001-TwoSums.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0002-AddTwoNumbers.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1929-ConcatenationOfArray.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0003-LongestSubstringWithoutRepeating.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0682-BaseballGame.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0008-atoi.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1768-MergeStringsAlternately.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0011-ContainerWithMostWater.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0015-3Sum.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0019-RemoveNthNodeFromEndOfList.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0020-ValidParentheses.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0021-MergeTwoSortedLists.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0022-GenerateParentheses.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0026-RemoveDuplicatesFromSortedArray.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0027-RemoveElement.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0036-ValidSudoku.cpp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0042-TrappingRainWater.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0046-Permutations.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0049-GroupAnagrams.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0062-UniquePaths.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0070-ClimbingStairs.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0088-MergeSortedArray.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0098-ValidateBinarySearchTree.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0100-SameTree.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0102-BinaryTreeLevelOrderTraversal.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0104-MaximumDepthOfBinaryTree.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0121-BestTimeToBusAndSellStock.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0125-ValidPalindrome.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0128-LongestConsecutiveSequence.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0141-LinkedListCycle.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0142-LinkedListCycle2.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0143-ReorderList.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0150-EvaluateReversePolishNotation.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0151-ReverseWordsInAString.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0153-FindMinimumInRotatedSortedArray.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0155-MinStack.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0167-TwoSumInputArrayIsSorted.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0169-MajorityElement.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0200-NumberOfIslands.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0205-IsomorphicStrings.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0206-ReverseLInkedList.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0208-ImplementTriePrefixTree.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0217-ContainsDuplicate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0224-Calculator.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0226-InvertBinaryTree.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0235-LowestCommonAncesterBST.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0238-ProductOfArrayExceptSelf.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0242-ValidAnagram.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0271-EncodeAndDecodeStrings.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0278-FirstBadVersion.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0279-PerfectSquares.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0334-IncreasingTripletSubsequence.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0347-TopKFrequentElements.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0392-IsSubsequence.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0409-LongestPalindrome.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0424-LongestRepeatingCharacterReplacement.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0438-FindAllAnagramsInAString.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0485-MaxConsecutiveOnes.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0509-Fibonacci.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0572-SubtreeOfAnotherTree.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0704-BinarySearch.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0724-FindPivotIndex.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0733-FloodFill.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0739-DailyTemperatures.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0746-MinCostClimbingStairs.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0853-CarFleet.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0876-MiddleOfLinkedList.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0907-SumOfSubarraysMinimums.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1207-UniqueNumberOfOccurences.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1235-MaximumProfitInJobScheduling.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1299-ReplaceElementsWithGreatestOnRight.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1480-RunningSumOf1dArray.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1732-FindTheHighestAltitude.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1926-NearestExitFromEntranceInMaze.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0079-WordSearch.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0094-BinaryTreeInorderTraversal.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0589-NTreePreorderTraversal.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{2386a31d-35f0-4fa9-b454-a5d5a838280d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
