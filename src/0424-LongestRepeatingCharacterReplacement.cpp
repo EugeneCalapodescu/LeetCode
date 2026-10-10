@@ -41,7 +41,7 @@ int replacements(const std::string& s, int start, int end)
 	return end - start + 1 - max;
 }
 
-int characterReplacement(string s, int k)
+int characterReplacement_v1(string s, int k)
 {
 	int max = 0;
 	int N = (int)s.size();
@@ -61,6 +61,33 @@ int characterReplacement(string s, int k)
 	}
 
 	return max;
+}
+
+int characterReplacement(std::string s, int k) 
+{
+	if (s.empty()) 
+		return 0;
+
+	int freqs[26] = { 0 };
+	int start = 0;
+	int max_freq = 0;
+	int max_len = 0;
+
+	for (int end = 0; end < s.size(); ++end) 
+	{
+		freqs[s[end] - 'A']++;
+		max_freq = std::max(max_freq, freqs[s[end] - 'A']);
+
+		while ((end - start + 1) - max_freq > k) 
+		{
+			freqs[s[start] - 'A']--;
+			start++;
+		}
+
+		max_len = std::max(max_len, end - start + 1);
+	}
+
+	return max_len;
 }
 
 void lc_0424()

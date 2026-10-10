@@ -145,7 +145,12 @@
     <ClCompile Include="src\0027-RemoveElement.cpp" />
     <ClCompile Include="src\0036-ValidSudoku.cpp.cpp" />
     <ClCompile Include="src\0042-TrappingRainWater.cpp" />
+    <ClCompile Include="src\0053-MaximumSubarray.cpp" />
+    <ClCompile Include="src\0075-SortColors.cpp" />
+    <ClCompile Include="src\0122-BestTimeToBuyAndSellStock2.cpp" />
+    <ClCompile Include="src\0295-FindMedianFromDataStream.cpp" />
     <ClCompile Include="src\0682-BaseballGame.cpp" />
+    <ClCompile Include="src\0918-MaximumSumCircularSubarray.cpp" />
     <ClCompile Include="src\1768-MergeStringsAlternately.cpp" />
     <ClCompile Include="src\1929-ConcatenationOfArray.cpp" />
     <ClCompile Include="src\0046-Permutations.cpp" />

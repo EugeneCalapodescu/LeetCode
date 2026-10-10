@@ -40,7 +40,7 @@ int findMin(std::vector<int>& nums)
 }
 
 // better, iterative version, with left and right pointers
-// but tricky, need to compare with the right, otherwise it doesnt works
+// but tricky, need to compare with the right, otherwise it doesnt work
 // at the end of the loop, left points to the min
 int findMin_loop(std::vector<int>& nums)
 {

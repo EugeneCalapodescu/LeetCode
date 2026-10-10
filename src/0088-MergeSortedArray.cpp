@@ -2,7 +2,7 @@
 
 /*
  * merge two sorted arrays
- * store the results inside the firts array which already has the space
+ * store the results inside the first array which already has the space
  *
  * Start from the back and insert the biggest of the numbers and just move the pointers back
  * Could do with pointers for speed

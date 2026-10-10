@@ -238,6 +238,21 @@
     <ClCompile Include="src\0589-NTreePreorderTraversal.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="src\0075-SortColors.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0295-FindMedianFromDataStream.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0053-MaximumSubarray.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0918-MaximumSumCircularSubarray.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0122-BestTimeToBuyAndSellStock2.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="src">
