@@ -253,6 +253,21 @@
     <ClCompile Include="src\0122-BestTimeToBuyAndSellStock2.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="src\0118-PascalTriangle.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0057-InsertInterval.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0213-HouseRobber2.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0198-HouseRobber.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\0005-LongestPalindromicSubstring.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="src">

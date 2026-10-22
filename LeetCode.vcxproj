@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -134,6 +134,7 @@
     <ClCompile Include="src\0001-TwoSums.cpp" />
     <ClCompile Include="src\0002-AddTwoNumbers.cpp" />
     <ClCompile Include="src\0003-LongestSubstringWithoutRepeating.cpp" />
+    <ClCompile Include="src\0005-LongestPalindromicSubstring.cpp" />
     <ClCompile Include="src\0008-atoi.cpp" />
     <ClCompile Include="src\0011-ContainerWithMostWater.cpp" />
     <ClCompile Include="src\0015-3Sum.cpp" />
@@ -146,8 +147,12 @@
     <ClCompile Include="src\0036-ValidSudoku.cpp.cpp" />
     <ClCompile Include="src\0042-TrappingRainWater.cpp" />
     <ClCompile Include="src\0053-MaximumSubarray.cpp" />
+    <ClCompile Include="src\0057-InsertInterval.cpp" />
     <ClCompile Include="src\0075-SortColors.cpp" />
+    <ClCompile Include="src\0118-PascalTriangle.cpp" />
     <ClCompile Include="src\0122-BestTimeToBuyAndSellStock2.cpp" />
+    <ClCompile Include="src\0198-HouseRobber.cpp" />
+    <ClCompile Include="src\0213-HouseRobber2.cpp" />
     <ClCompile Include="src\0295-FindMedianFromDataStream.cpp" />
     <ClCompile Include="src\0682-BaseballGame.cpp" />
     <ClCompile Include="src\0918-MaximumSumCircularSubarray.cpp" />

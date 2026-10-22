@@ -15,7 +15,9 @@ std::string to_string(std::vector<int>& v)
 std::string to_string(std::vector<std::string>& v)
 {
     std::string res = "[";
+    
     for (auto s : v)
         res += s + " ";
+
     return res + "]";
 }
